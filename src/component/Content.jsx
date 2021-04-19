@@ -66,7 +66,7 @@ class Content extends Component {
           <img src={logoNUTRICION1} className="App-logo" alt="aguacate" />
           <img src={logoNUTRICION} className="App-logo" alt="aguacate2" />
       
-      <script data-ad-client="ca-pub-8173422656251440" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      //<script data-ad-client="ca-pub-8173422656251440" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <br></br>
 
