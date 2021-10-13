@@ -16,4 +16,6 @@ class Menu extends Component {
   }
 }
 
+<script src="//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js" async></script>
+
 export default Menu;
