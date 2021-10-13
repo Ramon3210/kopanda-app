@@ -7,8 +7,6 @@ import logoNUTRICION from "../aguacuate2.gif";
 
 import iconface from "../faceicon.png";
 
-import useScript from 'hooks/useScript';
-
 //import ReactPlayer from 'react-player'
 
 class Content extends Component {
@@ -79,10 +77,6 @@ class Content extends Component {
       </div>
     );
   }
-}
-
-const MyComponent = props => {
-  useScript('//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js');
 }
 
 export default Content;
