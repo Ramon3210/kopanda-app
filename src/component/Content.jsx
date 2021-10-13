@@ -19,7 +19,7 @@ class Content extends Component {
       <div className="App-content">
         
             <Helmet>
-                <script src="//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js""></script>
+                <script src="code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js""></script>
                 <script>try{Typekit.load({ async: true });}catch(e){}</script>
             </Helmet>
       
