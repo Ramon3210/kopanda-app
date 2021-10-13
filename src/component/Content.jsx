@@ -7,6 +7,9 @@ import logoNUTRICION from "../aguacuate2.gif";
 
 import iconface from "../faceicon.png";
 
+import React from "react";
+import {Helmet} from "react-helmet";
+
 //import ReactPlayer from 'react-player'
 
 class Content extends Component {
@@ -15,6 +18,11 @@ class Content extends Component {
     return (
       <div className="App-content">
         
+            <Helmet>
+                <script src="//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js""></script>
+                <script>try{Typekit.load({ async: true });}catch(e){}</script>
+            </Helmet>
+      
         <Container maxWidth="sm">
           <Link to="/capacitacion">
             <Button variant="contained" color="default">
