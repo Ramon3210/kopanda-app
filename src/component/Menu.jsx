@@ -16,6 +16,14 @@ class Menu extends Component {
   }
 }
 
-<script src="//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js" async></script>
+
+componentDidMount () {
+    const script = document.createElement("script");
+
+    script.src = "//code.tidio.co/kwzqcn7i5i3zegf54pdewop87bzwcvhk.js";
+    script.async = true;
+
+    document.body.appendChild(script);
+}
 
 export default Menu;
